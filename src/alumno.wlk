@@ -1,0 +1,7 @@
+class Alumno {
+	
+	var materias = []
+	
+		
+	
+}
